@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
-
+WElcome to kifaax Restaurant
 TODO: Document your project here
